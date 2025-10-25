@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.egg-info/
+
+# data
+data/
+
+# outputs
+pred/
+pred_e/
